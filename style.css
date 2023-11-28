@@ -1,5 +1,29 @@
 /* Write your CSS here! */
+.header {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
 
+.logo {
+  width: 200;
+  text-align: left;
+}
+
+
+
+.primary-content {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+
+}
+
+body {
+  height: 100vh;
+}
+
+.footer {
+  display: grid;
+}
 /* Do not change the CSS below. */
 
 .header {
